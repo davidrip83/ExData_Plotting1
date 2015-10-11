@@ -1,6 +1,5 @@
 # Read data in R
 # Note that data is separated by ;
-setwd("~/Documents/rclass/exploratory_data/courseproject1")
 electric <- read.table("household_power_consumption.txt", sep = ";", header = TRUE,na.strings ="?")
 
 # convert date 
