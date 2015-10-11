@@ -65,5 +65,5 @@ The plot in the right top corner shows the voltage over time. There are throughs
 
 The plot in the lower right corner shows the the reactive power over time. The peaks seems to follow the same peaks as for the active power. This makes sense, as reactive power is the portion of power due to stored energy, which returns to the source in each cycle.
 
-![plot 4]([plot4.png) 
+![plot 4](plot4.png) 
 
