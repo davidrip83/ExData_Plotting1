@@ -19,8 +19,13 @@ are available.
 
 ## Running the R scripts
 
-There are four different R-scripts that create four different plots.
+There are four different R-scripts that create four different plots. Please follow these instructions to recreate the plots:
 
+1. Download the dataset here: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+2. Unzip the dataset to preferably an empty directory
+3. Initiate a pull from this git repository to the same directory
+4. Run the R scripts in the same directory as where you saved the unZIPped dataset
+5. After running a script, a PNG file of the plot will be created in the same directory
 
 
 ## Desciption of the four plots
